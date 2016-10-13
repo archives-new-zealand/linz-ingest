@@ -1,6 +1,8 @@
 linz-ingest-sip-generator
 ==================
 
+Rosetta CSV Sip Generation, Rosetta v5.0. 
+
 This repository is for creating SIPS where IEs have multiple
 representations. LINZ version. 
 
